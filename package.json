@@ -1,0 +1,11 @@
+{
+  "name": "codex-sandbox-joke",
+  "version": "1.0.0",
+  "description": "Fetch a random joke and print it",
+  "main": "hello.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "license": "MIT"
+}
